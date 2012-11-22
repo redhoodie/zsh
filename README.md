@@ -10,7 +10,7 @@ $ `git clone https://github.com/camfowler/zsh.git ~/.zsh`
 
 $ `ln -s ~/.zsh/zshrc ~/.zshrc`
 
-Source these files in your .zshrc
+Note: If you just want to include an individual file, source it in your .zshrc like so
 
 ```zsh
 source ~/.zsh/execute_annotate_call.sh
