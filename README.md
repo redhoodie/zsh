@@ -1,4 +1,4 @@
-# camfowler's zshrc for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+# redhoodie's zshrc for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 First, install oh-my-zsh
 
@@ -6,7 +6,7 @@ $ `curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
 
 Then, clone this repo
 
-$ `git clone https://github.com/camfowler/zsh.git ~/.zsh`
+$ `git clone https://github.com/redhoodie/zsh.git ~/.zsh`
 
 $ `ln -s ~/.zsh/zshrc ~/.zshrc`
 
